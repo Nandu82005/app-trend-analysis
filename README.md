@@ -11,6 +11,7 @@ An end-to-end data analyst project analyzing Google Play Store metrics, featurin
    git clone https://github.com/Nandu82005/app-trend-analysis.git
  2.Install required packages:
        pip install pandas numpy matplotlib seaborn
+       
  3.open and run the notebook:
        jupyter notebook "App_Trend_Analysis (2).ipynb"
  
